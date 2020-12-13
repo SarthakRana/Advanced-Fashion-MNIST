@@ -88,7 +88,6 @@ If your issue is not listed in the already open issues, you can open up a new on
 
 - [ ] Deploy model on Heroku
 - [ ] Try out famous model architectures like AlexNet, VGG16/19, etc.
-- [ ]
 
 ## 7. Contributing
 
